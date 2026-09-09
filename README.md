@@ -1,47 +1,71 @@
-🎬 ANIMATED HERO TEXT — IMPORTANT
+🎬 ANIMATED RED HERO TEXT
 
-Create a highly animated opening section.
+Create a unique animated hero section for my GitHub README.
 
-I want the words to feel like they are MOVING / JUMPING / BOUNCING rather than being plain static text.
+Do NOT copy the design, words, phrases, layout, or text from the reference image.
 
-Use animated typing effects with different phrases appearing one after another, such as:
+I want a futuristic RED + BLACK animation where the text feels alive and energetic.
 
-"HEY THERE! 👋"
-"I'M SINDHUJA"
-"DATA SCIENCE × AI"
-"CODE • CREATE • DISCOVER"
-"BUILDING MY TECH JOURNEY 🚀"
+Use completely original animated phrases:
 
-The animation should:
-- Display one phrase at a time
-- Have a smooth typing effect
-- Include a blinking cursor
-- Pause briefly after each phrase
-- Delete/erase the previous phrase
-- Type the next phrase
+"ENTER MY CODE ZONE ⚡"
+"SINDHUJA // DS & AI"
+"THINK IN DATA"
+"BUILD WITH PYTHON"
+"TURN IDEAS INTO CODE"
+"KEEP EXPERIMENTING 🚀"
+
+ANIMATION STYLE:
+
+- Show one phrase at a time
+- Letters should appear with a fast typing effect
+- Add a blinking red cursor
+- Slowly erase each phrase
+- Immediately introduce the next phrase
 - Repeat continuously
-- Use bright RED text
-- Use a BLACK background
-- Add a subtle red glow effect
-- Make the text look energetic and dynamic
+- Make some words visually jump upward when they appear
+- Add a small bounce effect to important words
+- Use different timing for each phrase so it feels dynamic
+- Add a subtle red neon/glow appearance
+- Bright red typography on a pure black background
+- Use a futuristic monospace/coding font
+- Keep the animation smooth and readable
 
-Also create a SECOND animated effect where individual words appear to bounce/jump visually.
+SECOND TEXT ANIMATION:
 
-Example concept:
+Create a separate animated word sequence:
 
-✨ CODE
+"THINK"
       ↓
-✨ CREATE
+"CODE"
       ↓
-✨ EXPLORE
+"ANALYZE"
       ↓
-✨ INNOVATE
+"CREATE"
+      ↓
+"REPEAT"
 
-Use animated GIF/SVG/HTML-compatible techniques that actually work inside a GitHub README.
+Each word should enter with a small upward jump and settle into position before the next word appears.
+
+VISUAL STYLE:
+
+BLACK █████
+RED #FF0000
+CRIMSON #DC143C
+DARK RED #8B0000
+WHITE TEXT
+
+Make the animation look like a futuristic developer terminal / digital interface.
 
 IMPORTANT:
-- Do NOT use fake animation code that GitHub cannot render.
-- Prefer GitHub-compatible animated SVG/GIF solutions.
-- Make the animation smooth rather than distracting.
-- Keep the red-and-black cyber aesthetic.
-- The animation should be the main visual element at the top of the README.
+
+- This is ONLY the animated hero section.
+- Do not create the rest of the README.
+- Do not copy the reference image.
+- Do not use the same wording as the reference.
+- Do not use purple or lavender.
+- Do not use JavaScript because GitHub README does not execute JavaScript.
+- Do not use CSS animations that GitHub will ignore.
+- Use a GitHub-compatible animated SVG/GIF or reliable animated typing SVG.
+- The final animation must actually render when placed inside a GitHub README.
+- Give me the exact Markdown code required to display the animation.
