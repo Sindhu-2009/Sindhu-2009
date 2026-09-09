@@ -1,11 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Sindhuja;BSc+Data+Science+%26+AI+Student;Welcome+to+my+GitHub+Profile&color=FF69B4)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+👋;I'm+Sindhuja;Data+Science+Student;Python+Learner;Welcome+to+my+GitHub!&color=FF69B4)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hello+👋)](https://git.io/typing-svg)I'm+Sindhuja;BSc+Data+Science+%26+AI+Student;Python+%7C+Data+Science+%7C+AI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)**font=Fira+Code → 
-<h1 align="center">Hi 👋, I'm Sindhuja</h1>
+🎬 ANIMATED HERO TEXT — IMPORTANT
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BSc+Data+Science+%26+AI+Student;Python+Learner;Data+Science+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hi+I'm+Sindhuja;BSc+Data+Science+%26+AI+Student;Python+Learner;Data+Science+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+Create a highly animated opening section.
+
+I want the words to feel like they are MOVING / JUMPING / BOUNCING rather than being plain static text.
+
+Use animated typing effects with different phrases appearing one after another, such as:
+
+"HEY THERE! 👋"
+"I'M SINDHUJA"
+"DATA SCIENCE × AI"
+"CODE • CREATE • DISCOVER"
+"BUILDING MY TECH JOURNEY 🚀"
+
+The animation should:
+- Display one phrase at a time
+- Have a smooth typing effect
+- Include a blinking cursor
+- Pause briefly after each phrase
+- Delete/erase the previous phrase
+- Type the next phrase
+- Repeat continuously
+- Use bright RED text
+- Use a BLACK background
+- Add a subtle red glow effect
+- Make the text look energetic and dynamic
+
+Also create a SECOND animated effect where individual words appear to bounce/jump visually.
+
+Example concept:
+
+✨ CODE
+      ↓
+✨ CREATE
+      ↓
+✨ EXPLORE
+      ↓
+✨ INNOVATE
+
+Use animated GIF/SVG/HTML-compatible techniques that actually work inside a GitHub README.
+
+IMPORTANT:
+- Do NOT use fake animation code that GitHub cannot render.
+- Prefer GitHub-compatible animated SVG/GIF solutions.
+- Make the animation smooth rather than distracting.
+- Keep the red-and-black cyber aesthetic.
+- The animation should be the main visual element at the top of the README.
