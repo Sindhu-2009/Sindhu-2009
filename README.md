@@ -1,32 +1,19 @@
-# Hi there! 👋 I'm Sindhuja
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Sindhuja;BSc+Data+Science+%26+AI+Student;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+👋;I'm+Sindhuja;Data+Science+Student;Python+Learner;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+| What you want   | What to use |
+| --------------- | ----------- |
+| New typing line | `;`         |
+| Space           | `+`         |
+| Text color      | `color=`    |
+| Width           | `width=`    |
+| Font size       | `size=`     |
+| Font            | `font=`     |
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+👋+I'm+Sindhuja;BSc+Data+Science+%26+AI+Student;Python+%7C+Data+Science+%7C+AI;Welcome+to+my+GitHub!)](https://git.io/typing-svg)**font=Fira+Code → font
+size=22 → text size
+pause=1000 → pause between lines
+color=36BCF7 → text color
+center=true → horizontal center
+vCenter=true → vertical center
+width=600 → image width
 
-## 👩‍💻 About Me
-
-- **Name:** M. Sindhuja
-- **Department:** B.Sc.Data Science & Artificial Intelligence 
-- **College:** SDNB Vaishnav College
-- **Career Goal:** To become a skilled Data Scientist / AI Professional
-- **Technical Skills:** Python, Git, GitHub, HTML, Markdown
-- **Areas of Interest:** Data Science, Artificial Intelligence, Machine Learning, and Web Development
-
-## 🌱 Currently Learning
-
-- Python for Data Science
-- Git & GitHub
-- Artificial Intelligence
-- Machine Learning
-
-## 🚀 Projects
-
-- Python Programming Projects
-- Data Science Mini Projects
-- GitHub & Markdown Projects
-
-## 📫 Connect With Me
-
-- **GitHub:** [Sindhu-2009](https://github.com/Sindhu-2009)
-- **LinkedIn:** 
-
----
-
-⭐ Thanks for visiting my profile!
+The project documents these parameters in its README.**
