@@ -6,6 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BSc+Data+Science+%26+AI+Student;Python+Learner;Data+Science+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
-color=9B59B6
-color=2ECC71
-color=FF69B4
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=650&lines=Hi+I'm+Sindhuja;BSc+Data+Science+%26+AI+Student;Python+Learner;Data+Science+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
